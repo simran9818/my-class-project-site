@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1101ae60aa6f00d225c89218b3c2a86d57e053b1
 (function() {
   "use strict";
 
